@@ -43,3 +43,5 @@ void bubbleSortArray() { //procedur untuk mengurutkan array dengan metode bublle
 
             }
         }
+        pass = pass + 1; //step 4
+
